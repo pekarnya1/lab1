@@ -1,0 +1,16 @@
+﻿#include <locale.h>
+#include <stdio.h>
+#include <stdlib.h>
+void main()
+{
+    puts("    **");
+    puts("   ****");
+    puts("  ******");
+    puts(" ********");
+    puts("**********");
+    puts("**      **");
+    puts("**  **  **");
+    puts("**      **");
+    puts("**********");
+
+}
